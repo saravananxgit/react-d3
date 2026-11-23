@@ -1,0 +1,14 @@
+[
+  { "category": "Electronics", "sales": 128 },
+  { "category": "Furniture", "sales": 94 },
+  { "category": "Grocery", "sales": 156 },
+  { "category": "Clothing", "sales": 112 },
+  { "category": "Books", "sales": 68 },
+  { "category": "Beauty", "sales": 103 },
+  { "category": "Sports", "sales": 87 },
+  { "category": "Toys", "sales": 74 },
+  { "category": "Automotive", "sales": 119 },
+  { "category": "Garden", "sales": 61 },
+  { "category": "Office", "sales": 82 },
+  { "category": "Pet care", "sales": 97 }
+]

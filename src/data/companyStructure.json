@@ -1,0 +1,29 @@
+{
+  "name": "Company",
+  "children": [
+    {
+      "name": "Product",
+      "children": [
+        { "name": "Web app" },
+        { "name": "Mobile app" },
+        { "name": "Analytics" }
+      ]
+    },
+    {
+      "name": "Engineering",
+      "children": [
+        { "name": "Frontend" },
+        { "name": "Backend" },
+        { "name": "Platform" }
+      ]
+    },
+    {
+      "name": "Operations",
+      "children": [
+        { "name": "Support" },
+        { "name": "Finance" },
+        { "name": "People" }
+      ]
+    }
+  ]
+}

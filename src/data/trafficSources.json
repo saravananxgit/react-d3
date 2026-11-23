@@ -1,0 +1,9 @@
+[
+  { "category": "Direct", "value": 31 },
+  { "category": "Organic search", "value": 24 },
+  { "category": "Paid search", "value": 16 },
+  { "category": "Social", "value": 11 },
+  { "category": "Referral", "value": 8 },
+  { "category": "Email", "value": 6 },
+  { "category": "Display", "value": 4 }
+]

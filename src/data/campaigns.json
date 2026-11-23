@@ -1,0 +1,14 @@
+[
+  { "id": "P-101", "adSpend": 12, "revenue": 38, "channel": "Search" },
+  { "id": "P-102", "adSpend": 18, "revenue": 46, "channel": "Social" },
+  { "id": "P-103", "adSpend": 22, "revenue": 52, "channel": "Search" },
+  { "id": "P-104", "adSpend": 27, "revenue": 49, "channel": "Email" },
+  { "id": "P-105", "adSpend": 31, "revenue": 64, "channel": "Social" },
+  { "id": "P-106", "adSpend": 35, "revenue": 59, "channel": "Display" },
+  { "id": "P-107", "adSpend": 39, "revenue": 72, "channel": "Search" },
+  { "id": "P-108", "adSpend": 44, "revenue": 68, "channel": "Email" },
+  { "id": "P-109", "adSpend": 49, "revenue": 81, "channel": "Social" },
+  { "id": "P-110", "adSpend": 54, "revenue": 77, "channel": "Display" },
+  { "id": "P-111", "adSpend": 59, "revenue": 91, "channel": "Search" },
+  { "id": "P-112", "adSpend": 65, "revenue": 96, "channel": "Email" }
+]
